@@ -8,7 +8,7 @@
 **SecureVote** is an enterprise-grade full-stack Java web application designed for secure, transparent, and tamper-proof electronic elections. The system utilizes an **anonymous SHA-256 vote chain ledger** (blockchain-inspired) to guarantee absolute vote secrecy, single-ballot enforcement per voter, verifiable digital receipts, real-time result analytics, and automated cryptographic audit verification.
 
 ---
-
+ 
 ## 🌟 Key Features
 
 ### 🔒 1. SHA-256 Cryptographic Chain Ledger
